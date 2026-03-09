@@ -1,0 +1,106 @@
+﻿eraID;era;good;produceable;instock
+3;Âge du Fer;Tissu;0;132930
+3;Âge du Fer;Bois d'ébène;0;144653
+3;Âge du Fer;Bijou;0;131869
+3;Âge du Fer;Fer;0;136122
+3;Âge du Fer;Calcaire;0;147110
+4;Haut Moyen Âge;Cuivre;0;234733
+4;Haut Moyen Âge;Or;0;229320
+4;Haut Moyen Âge;Granite;0;206427
+4;Haut Moyen Âge;Miel;0;152232
+4;Haut Moyen Âge;Albâtre;0;140695
+5;Moyen Âge Classique;Brique;18;307803
+5;Moyen Âge Classique;Verre;18;348338
+5;Moyen Âge Classique;Herbes séchées;18;279973
+5;Moyen Âge Classique;Corde;18;315093
+5;Moyen Âge Classique;Sel;18;396167
+6;Renaissance;Basalte;71;313288
+6;Renaissance;Laiton;71;312007
+6;Renaissance;Poudre à canon;71;322822
+6;Renaissance;Soie;71;321060
+6;Renaissance;Poudre à talquer;71;323717
+7;Âge Colonial;Café;88;389791
+7;Âge Colonial;Papier;88;396970
+7;Âge Colonial;Porcelaine;88;407586
+7;Âge Colonial;Goudron;88;374315
+7;Âge Colonial;Fil;88;254746
+8;Âge Industriel;Coke;82;343457
+8;Âge Industriel;Engrais;82;263710
+8;Âge Industriel;Caoutchouc;82;322912
+8;Âge Industriel;Textiles;82;323841
+8;Âge Industriel;Huile de baleine;82;314760
+9;Ère Progressiste;Amiante;690;530759
+9;Ère Progressiste;Explosifs;690;497578
+9;Ère Progressiste;Pièces détachées;690;385363
+9;Ère Progressiste;Essence;690;490029
+9;Ère Progressiste;Fer-blanc;690;463918
+10;Ère Moderne;Plat cuisiné;4158;442094
+10;Ère Moderne;Béton armé;4158;403756
+10;Ère Moderne;Arômes;4158;338596
+10;Ère Moderne;Produits de luxe;4158;406052
+10;Ère Moderne;Emballage;4158;400484
+11;Ère Postmoderne;Donnée génétique;3254;307082
+11;Ère Postmoderne;Filtres industriels;3254;348190
+11;Ère Postmoderne;Ressources renouvelables;3254;329702
+11;Ère Postmoderne;Semi-conducteurs;3254;335284
+11;Ère Postmoderne;Acier;3254;330132
+12;Ère Contemporaine;Donnée bionique;1481;351081
+12;Ère Contemporaine;Électro-aimants;1481;343484
+12;Ère Contemporaine;Gaz;1481;398485
+12;Ère Contemporaine;Plastique;1481;399344
+12;Ère Contemporaine;Robots;1481;320629
+13;Demain;Recherche en nutrition;921;537939
+13;Demain;Liant papier;921;409632
+13;Demain;Conservateurs;921;438678
+13;Demain;Matériaux intelligents;921;498009
+13;Demain;Béton translucide;921;610440
+14;Ère du Futur;Algue;13496;461183
+14;Ère du Futur;Donnée biogéochimique;13496;593875
+14;Ère du Futur;Nanoparticules;13496;748756
+14;Ère du Futur;Eau purifiée;13496;599706
+14;Ère du Futur;Supraconducteurs;13496;393742
+15;Futur arctique;Donnée d'I.A.;10805;422827
+15;Futur arctique;Bioplastiques;10805;570042
+15;Futur arctique;Nanocâble;10805;687834
+15;Futur arctique;Piles en papier;10805;606420
+15;Futur arctique;Gaz transester;10805;457533
+16;Futur océanique;Écailles artificielles;5799;685760
+16;Futur océanique;Substance bioluminescente;5799;644620
+16;Futur océanique;Coraux;5799;789543
+16;Futur océanique;Perles;5799;632326
+16;Futur océanique;Plancton;5799;475488
+17;Futur virtuel;Crypto-monnaie;5887;748703
+17;Futur virtuel;Cristaux de données;5887;1084757
+17;Futur virtuel;Riz doré;5887;774866
+17;Futur virtuel;Nanorobots;5887;1018647
+17;Futur virtuel;Soie de thé;5887;612158
+18;Ère spatiale - Mars;Cultures biotechnologiques;11263;1625928
+18;Ère spatiale - Mars;Réacteurs de fusion;11263;1361920
+18;Ère spatiale - Mars;Huiles de graissage;11263;1804021
+18;Ère spatiale - Mars;Microbes martiens;11263;1112124
+18;Ère spatiale - Mars;Superalliages;11263;1339971
+19;Ère spatiale - Ceinture d'astéroïdes;Brome;10860;1365834
+19;Ère spatiale - Ceinture d'astéroïdes;Fluide composé;10860;1260967
+19;Ère spatiale - Ceinture d'astéroïdes;Nickel;10860;1113453
+19;Ère spatiale - Ceinture d'astéroïdes;Cristal de platine;10860;1294164
+19;Ère spatiale - Ceinture d'astéroïdes;Matériau transformé;10860;1516516
+20;Ère spatiale - Vénus;Algue lumineuse;6317;879536
+20;Ère spatiale - Vénus;En-cas d'herbe;6317;1179484
+20;Ère spatiale - Vénus;Suppléments de micropousse;6317;1557223
+20;Ère spatiale - Vénus;Protéines de soja;6317;1341803
+20;Ère spatiale - Vénus;Cristaux de sucre;6317;1204926
+21;Ère spatiale - Lune de Jupiter;Données ADN avancées;14065;946928
+21;Ère spatiale - Lune de Jupiter;Créatures biologiques;14065;913713
+21;Ère spatiale - Lune de Jupiter;Porifère avancé;14065;1060453
+21;Ère spatiale - Lune de Jupiter;Algues rouges;14065;1200513
+21;Ère spatiale - Lune de Jupiter;Dossiers topologiques;14065;1109536
+22;Ère spatiale - Titan;Capsule de matière comprimée;13594;3028051
+22;Ère spatiale - Titan;Donnée expérimentale;13594;1777283
+22;Ère spatiale - Titan;Molécule isolée;13594;2122288
+22;Ère spatiale - Titan;Liant liquide;13594;3061409
+22;Ère spatiale - Titan;Hydrocarbure upcyclé;13594;2629871
+23;Ère spatiale : Hub spatial;Piles à énergie noire;82964;7561515
+23;Ère spatiale : Hub spatial;Donnée d'espace lointain;82964;7801210
+23;Ère spatiale : Hub spatial;Modules d'hypersommeil;82964;8147194
+23;Ère spatiale : Hub spatial;Pilules d'oxygène;82964;7893942
+23;Ère spatiale : Hub spatial;Cristaux d'argent;82964;8037272

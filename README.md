@@ -203,6 +203,7 @@ Ce projet a été réalisé  afin de :
 * Rendre l’interface plus agréable à regarder (ajout de thèmes, d’emojis et de couleurs)
 * export des résultats en **CSV / Excel**
 * ajout d’un **dashboard global**
+* ajout d une verification lors de l ajout des fichiers
   
 
 ---
